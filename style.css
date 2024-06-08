@@ -1,0 +1,29 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+}
+
+#note{
+    font-size: 19px;
+    color: black;
+}
+
+.divVolumeImg,.divVelocImg{
+    width: 170px ;
+    height: 180px;
+    border-radius: 70px;
+}
+
+.divVolume{
+    float: left;
+}
+
+.divVelocidade{
+    float: right;
+}
+
+canvas{
+    border-style: dotted;
+    margin-top: 70px;
+}
